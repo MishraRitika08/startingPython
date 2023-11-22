@@ -14,14 +14,22 @@
 
 # If - else Statement
 
-if(a==10):
-    print("True")
-    print(a)
-elif(a==34):
-    print("hello")
+# if(a==10):
+#     print("True")
+#     print(a)
+# elif(a==34):
+#     print("hello")
     
-else:
-    print("False")
+# else:
+#     print("False")
 
-print('statement')
+# print('statement')
+
+
+#for loop
+
+for i in range(0,100,9):
+    print(i)
+
+
 
